@@ -1,0 +1,15 @@
+E:\c_pratice\AutodeskAPI\bin\Debug\net7.0\AutodeskAPI.exe
+E:\c_pratice\AutodeskAPI\bin\Debug\net7.0\AutodeskAPI.deps.json
+E:\c_pratice\AutodeskAPI\bin\Debug\net7.0\AutodeskAPI.runtimeconfig.json
+E:\c_pratice\AutodeskAPI\bin\Debug\net7.0\AutodeskAPI.dll
+E:\c_pratice\AutodeskAPI\bin\Debug\net7.0\AutodeskAPI.pdb
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\AutodeskAPI.csproj.AssemblyReference.cache
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\AutodeskAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\AutodeskAPI.AssemblyInfoInputs.cache
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\AutodeskAPI.AssemblyInfo.cs
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\AutodeskAPI.csproj.CoreCompileInputs.cache
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\AutodeskAPI.dll
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\refint\AutodeskAPI.dll
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\AutodeskAPI.pdb
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\AutodeskAPI.genruntimeconfig.cache
+E:\c_pratice\AutodeskAPI\obj\Debug\net7.0\ref\AutodeskAPI.dll

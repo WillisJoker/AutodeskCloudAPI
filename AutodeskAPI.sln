@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutodeskAPI", "AutodeskAPI\AutodeskAPI.csproj", "{57DFB08F-9BE0-49D0-8F5D-64A5489E3162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DFB08F-9BE0-49D0-8F5D-64A5489E3162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DFB08F-9BE0-49D0-8F5D-64A5489E3162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DFB08F-9BE0-49D0-8F5D-64A5489E3162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DFB08F-9BE0-49D0-8F5D-64A5489E3162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C16FD6B-35BA-47F0-8300-D25D28966969}
+	EndGlobalSection
+EndGlobal
